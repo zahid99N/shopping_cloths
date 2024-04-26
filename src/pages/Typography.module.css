@@ -1,0 +1,179 @@
+.typographyChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff5bf;
+  width: 100rem;
+  height: 75rem;
+}
+.backgroundIcon,
+.backgroundIcon1,
+.groupChild {
+  position: absolute;
+  top: 59.938rem;
+  left: 11.375rem;
+  width: 108.313rem;
+  height: 28.175rem;
+}
+.backgroundIcon1,
+.groupChild {
+  top: -11.062rem;
+  left: -10.187rem;
+}
+.groupChild {
+  top: 2.438rem;
+  left: 7.188rem;
+  width: 7.656rem;
+  height: 2.463rem;
+}
+.colors {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vectorParent {
+  width: 14.844rem;
+  position: relative;
+  height: 5rem;
+}
+.ellipseDiv,
+.groupChild1,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  border-radius: 50%;
+  width: 15rem;
+  height: 15rem;
+}
+.groupItem {
+  left: 0;
+  background-color: #e6c744;
+}
+.ellipseDiv,
+.groupChild1,
+.groupInner {
+  left: 11.25rem;
+  background-color: var(--color-white);
+}
+.ellipseDiv,
+.groupChild1 {
+  left: 22.5rem;
+  background-color: var(--color-black);
+}
+.groupChild1 {
+  left: 33.75rem;
+  background-color: var(--color-lightsteelblue);
+}
+.e6c744 {
+  position: absolute;
+  top: 6.25rem;
+  left: 1.875rem;
+  font-weight: 500;
+}
+.ffffff {
+  left: 13.688rem;
+}
+.c2c8da,
+.div,
+.ffffff {
+  position: absolute;
+  top: 6.25rem;
+  font-weight: 500;
+}
+.div {
+  left: 24.313rem;
+  color: var(--color-white);
+}
+.c2c8da {
+  left: 37.125rem;
+}
+.ellipseParent {
+  width: 48.75rem;
+  position: relative;
+  height: 15rem;
+  font-size: var(--font-size-7xl);
+}
+.groupParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-45xl);
+}
+.vectorIcon {
+  position: absolute;
+  top: 2.5rem;
+  left: 3rem;
+  width: 7.656rem;
+  height: 2.463rem;
+}
+.vectorGroup {
+  width: 10.656rem;
+  position: relative;
+  height: 5rem;
+}
+.poppinsBlack {
+  position: relative;
+  font-weight: 900;
+}
+.poppinsMedium {
+  font-weight: 500;
+}
+.poppinsMedium,
+.poppinsRegular {
+  position: relative;
+}
+.poppinsBlackParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.25rem;
+}
+.aaBb {
+  white-space: pre-wrap;
+}
+.aaBb,
+.blankLine {
+  margin: 0;
+}
+.aaBbCcContainer {
+  width: 25.75rem;
+  position: relative;
+  font-size: 2.313rem;
+  line-height: 2.5rem;
+  font-weight: 500;
+  display: inline-block;
+  height: 7.625rem;
+  flex-shrink: 0;
+}
+.frameGroup,
+.frameParent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameGroup {
+  flex-direction: row;
+  gap: 11.25rem;
+  font-size: var(--font-size-20xl);
+}
+.frameParent {
+  position: absolute;
+  top: 7.5rem;
+  left: 20.188rem;
+  flex-direction: column;
+  gap: 10rem;
+}
+.typography {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-34xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

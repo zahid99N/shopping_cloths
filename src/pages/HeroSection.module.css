@@ -1,0 +1,340 @@
+.heroSectionChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-palegoldenrod-100);
+  width: 100rem;
+  height: 74.875rem;
+}
+.wwwnickelfoxcom {
+  position: absolute;
+  top: 4.33%;
+  left: 3.88%;
+}
+.backgroundIcon,
+.backgroundIcon1,
+.heroSectionItem {
+  position: absolute;
+  top: 1.25rem;
+  left: -0.125rem;
+  width: 100.188rem;
+  height: 26.063rem;
+}
+.backgroundIcon1,
+.heroSectionItem {
+  top: 58.188rem;
+  left: 32.75rem;
+}
+.heroSectionItem {
+  top: 11.625rem;
+  left: 59.813rem;
+  width: 2.719rem;
+  height: 2.625rem;
+}
+.heroSectionChild1,
+.heroSectionChild2,
+.heroSectionInner,
+.starIcon {
+  position: absolute;
+  top: 40.875rem;
+  left: 42.469rem;
+  width: 2.719rem;
+  height: 2.625rem;
+}
+.heroSectionChild1,
+.heroSectionChild2,
+.starIcon {
+  top: 11.113rem;
+}
+.heroSectionChild1,
+.heroSectionChild2 {
+  top: 27.988rem;
+  left: 79.031rem;
+}
+.heroSectionChild2 {
+  top: 43.406rem;
+  left: 66.094rem;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 39.47px;
+  background-color: var(--color-whitesmoke-100);
+  width: 80.625rem;
+  height: 39.9rem;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 14.931rem;
+  right: 53.006rem;
+  background-color: var(--color-khaki);
+  width: 23.238rem;
+  height: 5.506rem;
+  transform: rotate(-2deg);
+  transform-origin: 0 0;
+}
+.groupInner {
+  top: 3.944rem;
+  right: 54.994rem;
+  background-color: var(--color-white);
+  width: 21.788rem;
+  height: 5.25rem;
+}
+.lets {
+  margin: 0;
+}
+.letsExploreUniqueContainer {
+  position: absolute;
+  top: 3.606rem;
+  right: 52.825rem;
+  line-height: 5.625rem;
+  font-weight: 900;
+  display: inline-block;
+  width: 22.219rem;
+  height: 22.15rem;
+}
+.liveForInfluential {
+  position: absolute;
+  top: 27.631rem;
+  left: 5.581rem;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.05em;
+  color: var(--color-gray-1300);
+  display: inline-block;
+  width: 28.406rem;
+  height: 2.719rem;
+}
+.incendiaryFantasticallyBeautIcon {
+  position: absolute;
+  top: 4.375rem;
+  left: 36.25rem;
+  width: 40.5rem;
+  height: 35.5rem;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 7.5px;
+  background-color: var(--color-black);
+  width: 10.363rem;
+  height: 3.844rem;
+}
+.shopNow {
+  position: absolute;
+  top: 0.9rem;
+  left: 1.494rem;
+  letter-spacing: -0.05em;
+  font-weight: 500;
+}
+.rectangleGroup {
+  width: 10.363rem;
+  position: relative;
+  height: 3.844rem;
+}
+.groupWrapper {
+  position: absolute;
+  top: 31.844rem;
+  left: 5.863rem;
+  width: 20.444rem;
+  height: 3.838rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 1.406rem;
+  color: var(--color-white);
+}
+.groupIcon,
+.rectangleParent {
+  position: absolute;
+  top: 8.438rem;
+  left: 4.688rem;
+  width: 80.625rem;
+  height: 39.9rem;
+}
+.groupIcon {
+  top: 12.094rem;
+  left: 40.5rem;
+  width: 40.838rem;
+  height: 33.963rem;
+}
+.heroSectionChild3 {
+  position: absolute;
+  top: 50.688rem;
+  left: 0;
+  background-color: var(--color-khaki);
+  width: 90rem;
+  height: 8.75rem;
+}
+.frameChild {
+  width: 6.044rem;
+  position: relative;
+  height: 3.556rem;
+  object-fit: cover;
+}
+.frameChild1,
+.frameChild2,
+.frameInner,
+.frameItem,
+.rectangleIcon {
+  width: 7.669rem;
+  position: relative;
+  height: 2.694rem;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.frameChild1,
+.frameChild2,
+.frameInner,
+.rectangleIcon {
+  width: 8.994rem;
+  height: 3.156rem;
+}
+.frameChild1,
+.frameChild2,
+.rectangleIcon {
+  width: 12.013rem;
+  height: 3.575rem;
+}
+.frameChild1,
+.frameChild2 {
+  width: 6.494rem;
+  height: 3.613rem;
+}
+.frameChild2 {
+  width: 8.488rem;
+  height: 3.219rem;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 53.25rem;
+  left: 6.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-71xl);
+}
+.vectorIcon {
+  width: 1.55rem;
+  position: relative;
+  height: 1.438rem;
+}
+.fashion {
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 900;
+}
+.vectorParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.75rem;
+}
+.catalogue,
+.fashion1,
+.favourite,
+.lifestyle {
+  width: 6.331rem;
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+  height: 1.688rem;
+  flex-shrink: 0;
+}
+.fashion1,
+.favourite,
+.lifestyle {
+  width: 4.5rem;
+  height: 1.55rem;
+}
+.favourite,
+.lifestyle {
+  width: 5.769rem;
+}
+.lifestyle {
+  width: 4.831rem;
+  height: 1.5rem;
+}
+.catalogueParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.05rem;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5.25px;
+  background-color: var(--color-black);
+  width: 6.281rem;
+  height: 2.906rem;
+}
+.signUp {
+  position: absolute;
+  top: 0.606rem;
+  left: 1.031rem;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 4.219rem;
+  height: 1.5rem;
+}
+.groupDiv {
+  width: 6.281rem;
+  position: relative;
+  height: 2.906rem;
+  font-size: 1.125rem;
+  color: var(--color-gray-100);
+}
+.frameGroup,
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameGroup {
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-base-5);
+  color: var(--color-gray-1100);
+}
+.frameParent {
+  position: absolute;
+  top: 2.531rem;
+  left: 4.688rem;
+  gap: 30.562rem;
+  font-size: var(--font-size-11xl);
+}
+.heroSection,
+.heroSection1 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.heroSection1 {
+  position: absolute;
+  top: 10.125rem;
+  left: 5rem;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  width: 90rem;
+  height: 64.75rem;
+  font-size: 4.5rem;
+  font-family: var(--font-poppins);
+}
+.heroSection {
+  width: 100%;
+  position: relative;
+  height: 75rem;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

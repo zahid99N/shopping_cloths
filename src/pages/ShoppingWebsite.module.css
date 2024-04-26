@@ -1,0 +1,1445 @@
+.shoppingWebsiteChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f5e79d;
+  width: 100rem;
+  height: 75rem;
+}
+.shoppingWebsiteInner,
+.shoppingWebsiteItem {
+  position: absolute;
+  top: -3.125rem;
+  left: -1.937rem;
+  width: 61.5rem;
+  height: 21.419rem;
+}
+.shoppingWebsiteInner {
+  top: 57.438rem;
+  left: 48.188rem;
+}
+.wwwnickelfoxcom {
+  position: absolute;
+  top: 2%;
+  left: 3.88%;
+  font-family: var(--font-roboto);
+}
+.shoppingAppChild {
+  position: absolute;
+  top: 66.175rem;
+  left: 56.244rem;
+  background-color: var(--color-silver);
+  width: 4.431rem;
+  height: 4.431rem;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-goldenrod-100);
+  width: 32.469rem;
+  height: 10.538rem;
+}
+.joinShoppingCommunity,
+.typeYourEmail {
+  position: absolute;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.joinShoppingCommunity {
+  top: 2.375rem;
+  left: 8.681rem;
+  line-height: 1.184rem;
+  font-weight: 900;
+  text-align: center;
+  width: 17.813rem;
+}
+.typeYourEmail {
+  top: 5.106rem;
+  left: 9.056rem;
+  font-size: var(--font-size-4xs-7);
+  line-height: 0.592rem;
+  width: 17.081rem;
+  height: 0.488rem;
+}
+.groupItem {
+  position: absolute;
+  top: 6.425rem;
+  left: 11.381rem;
+  border-radius: 4px;
+  background-color: var(--color-white);
+  width: 9.706rem;
+  height: 1.469rem;
+}
+.addYourEmail {
+  position: absolute;
+  top: 6.881rem;
+  left: 11.838rem;
+  font-size: var(--font-size-6xs-5);
+  letter-spacing: 0.03em;
+  line-height: 0.592rem;
+  color: var(--color-gray-900);
+  display: inline-block;
+  width: 4.55rem;
+  height: 0.425rem;
+}
+.groupInner {
+  position: absolute;
+  top: 6.594rem;
+  left: 18.194rem;
+  border-radius: 2.16px;
+  background-color: var(--color-black);
+  width: 2.725rem;
+  height: 1.131rem;
+}
+.send {
+  position: absolute;
+  top: 6.875rem;
+  left: 18.869rem;
+  font-size: 0.5rem;
+  letter-spacing: 0.03em;
+  line-height: 0.592rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 1.375rem;
+  height: 0.438rem;
+}
+.rectangleDiv,
+.rectangleParent {
+  position: absolute;
+  width: 32.469rem;
+}
+.rectangleParent {
+  top: 55.25rem;
+  left: 0.069rem;
+  height: 10.538rem;
+  color: var(--color-white);
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  height: 9.219rem;
+}
+.careers,
+.contactUs {
+  position: absolute;
+  height: 10.28%;
+  width: 71.69%;
+  top: 89.72%;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 0.676rem;
+  display: inline-block;
+}
+.contactUs {
+  width: 100%;
+  top: 43.98%;
+}
+.support {
+  width: 73.23%;
+  top: 67.79%;
+}
+.about,
+.company,
+.support {
+  position: absolute;
+  height: 10.28%;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 0.676rem;
+  display: inline-block;
+}
+.company {
+  width: 87.38%;
+  top: 0;
+  color: var(--color-gainsboro-200);
+}
+.about {
+  width: 55.08%;
+  top: 21.92%;
+}
+.careersParent {
+  width: 2.031rem;
+  position: relative;
+  height: 4.619rem;
+}
+.faqs,
+.ordersTracking,
+.quickLink,
+.shareLocation,
+.sizeGuide {
+  position: absolute;
+  height: 10.37%;
+  letter-spacing: 0.02em;
+  line-height: 0.676rem;
+  display: inline-block;
+}
+.quickLink {
+  width: 64.93%;
+  top: 0;
+  left: 1.04%;
+  color: var(--color-gainsboro-200);
+}
+.faqs,
+.ordersTracking,
+.shareLocation,
+.sizeGuide {
+  width: 32.78%;
+  top: 89.63%;
+  left: 0;
+}
+.ordersTracking,
+.shareLocation,
+.sizeGuide {
+  width: 66.18%;
+  top: 67.53%;
+  left: 0.63%;
+}
+.ordersTracking,
+.shareLocation {
+  height: 9.55%;
+  width: 98.96%;
+  top: 45.43%;
+  left: 1.04%;
+}
+.shareLocation {
+  height: 9.96%;
+  width: 94.36%;
+  top: 22.92%;
+  left: 0.63%;
+}
+.quickLinkParent {
+  width: 2.994rem;
+  position: relative;
+  height: 4.581rem;
+  color: var(--color-gray-700);
+}
+.legal,
+.privacyPolicy,
+.termsConditions {
+  position: absolute;
+  height: 18.86%;
+  width: 71.04%;
+  top: 81.14%;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 0.676rem;
+  display: inline-block;
+}
+.legal,
+.termsConditions {
+  width: 99.15%;
+  top: 41.69%;
+  left: 0.85%;
+  color: var(--color-gray-200);
+}
+.legal {
+  width: 27.6%;
+  top: 0;
+  color: var(--color-whitesmoke-300);
+}
+.privacyPolicyParent {
+  width: 3.669rem;
+  position: relative;
+  height: 2.519rem;
+  color: var(--color-gray-800);
+}
+.groupParent {
+  position: absolute;
+  top: 0.106rem;
+  left: 14.038rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.181rem;
+}
+.completeYourStyle,
+.fashion {
+  position: relative;
+  display: inline-block;
+}
+.fashion {
+  width: 3.25rem;
+  font-size: 0.675rem;
+  letter-spacing: 0.03em;
+  font-weight: 900;
+  font-family: var(--font-poppins);
+  height: 0.888rem;
+  flex-shrink: 0;
+}
+.completeYourStyle {
+  width: 7.019rem;
+  letter-spacing: 0.02em;
+  line-height: 0.676rem;
+  color: var(--color-gray-200);
+}
+.groupChild1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 4.06px;
+  background-color: var(--color-khaki);
+}
+.vectorIcon {
+  position: absolute;
+  height: 48.23%;
+  width: 25.53%;
+  top: 24.82%;
+  right: 38.3%;
+  bottom: 26.95%;
+  left: 36.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleContainer {
+  width: 0.881rem;
+  position: relative;
+  height: 0.881rem;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 41.84%;
+  width: 41.84%;
+  top: 29.08%;
+  right: 29.08%;
+  bottom: 29.08%;
+  left: 29.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.in,
+.vectorIcon2 {
+  position: absolute;
+  left: 30.5%;
+}
+.vectorIcon2 {
+  height: 39.01%;
+  width: 48.23%;
+  top: 30.5%;
+  right: 21.28%;
+  bottom: 30.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.in {
+  height: 53.9%;
+  width: 43.97%;
+  top: 11.35%;
+  letter-spacing: 0.02em;
+  line-height: 0.676rem;
+  display: inline-block;
+}
+.fashionParent,
+.groupContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.237rem;
+  color: var(--color-black);
+}
+.fashionParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  gap: 0.543rem;
+  color: var(--color-white);
+}
+.frameParent,
+.rectangleGroup {
+  position: absolute;
+  top: 2.013rem;
+  left: 1.694rem;
+  width: 29.088rem;
+  height: 4.719rem;
+}
+.rectangleGroup {
+  top: 65.781rem;
+  left: 0.069rem;
+  width: 32.469rem;
+  height: 9.219rem;
+  font-size: var(--font-size-6xs-5);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}
+.groupChild5 {
+  position: absolute;
+  top: 0;
+  left: 16.725rem;
+  background: linear-gradient(1.32deg);
+  width: 15.744rem;
+  height: 16.369rem;
+}
+.groupChild6 {
+  position: absolute;
+  top: 0.319rem;
+  right: 1.256rem;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.04);
+  background-color: var(--color-white);
+  width: 9.138rem;
+  height: 2.206rem;
+  transform: rotate(-2deg);
+  transform-origin: 0 0;
+}
+.payday {
+  margin: 0;
+}
+.paydaySaleNowContainer {
+  position: absolute;
+  top: 0.194rem;
+  left: 0.394rem;
+  line-height: 2.32rem;
+  font-weight: 900;
+}
+.rectangleParent4 {
+  position: absolute;
+  top: 0;
+  right: 0.85rem;
+  width: 10.394rem;
+  height: 4.881rem;
+}
+.spendMinimal100Container {
+  position: absolute;
+  top: 5.156rem;
+  left: 0.394rem;
+  font-size: var(--font-size-4xs);
+  letter-spacing: -0.02em;
+  line-height: 0.885rem;
+  display: inline-block;
+  width: 10.85rem;
+  height: 1.531rem;
+}
+.june10,
+.termsConditions1 {
+  width: 7.256rem;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 0.885rem;
+  display: inline-block;
+  height: 0.65rem;
+  flex-shrink: 0;
+}
+.termsConditions1 {
+  width: 8.319rem;
+  font-size: var(--font-size-4xs);
+  letter-spacing: -0.02em;
+}
+.june10June2021Parent {
+  position: absolute;
+  top: 7.625rem;
+  left: 0.394rem;
+  width: 8.319rem;
+  height: 1.475rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.312rem;
+  font-size: 0.613rem;
+}
+.groupChild7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 2.2px;
+  background-color: var(--color-black);
+  width: 4.481rem;
+  height: 1.613rem;
+}
+.shopNow {
+  position: absolute;
+  top: 0.45rem;
+  left: 0.869rem;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 2.75rem;
+  height: 0.513rem;
+}
+.rectangleParent5 {
+  position: absolute;
+  top: 10.156rem;
+  left: 0.394rem;
+  width: 4.481rem;
+  height: 1.613rem;
+  font-size: 0.469rem;
+  color: var(--color-white);
+}
+.groupParent1 {
+  position: absolute;
+  top: 2.169rem;
+  right: 3.369rem;
+  width: 11.244rem;
+  height: 11.769rem;
+}
+.image12Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 16.731rem;
+  height: 16.369rem;
+  object-fit: cover;
+}
+.groupChild10,
+.groupChild8,
+.groupChild9,
+.starIcon {
+  position: absolute;
+  top: 2.569rem;
+  left: 2.3rem;
+  width: 1.731rem;
+  height: 1.731rem;
+  object-fit: contain;
+}
+.groupChild10,
+.groupChild8,
+.groupChild9 {
+  top: 1.419rem;
+  left: 12.919rem;
+}
+.groupChild10,
+.groupChild9 {
+  top: 8.288rem;
+  left: 3.163rem;
+}
+.groupChild10 {
+  top: 10.806rem;
+  left: 13.781rem;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 1.894rem;
+  left: 0;
+  width: 32.469rem;
+  height: 16.369rem;
+  font-size: 1.888rem;
+}
+.frameChild {
+  width: 12.681rem;
+  position: relative;
+  border-radius: var(--br-3xs);
+  height: 9.725rem;
+  object-fit: cover;
+}
+.buyNow,
+.trendingOnInstagram {
+  width: 5.831rem;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 0.846rem;
+  font-weight: 500;
+  display: inline-block;
+  height: 0.606rem;
+  flex-shrink: 0;
+}
+.buyNow {
+  width: 1.894rem;
+  font-size: var(--font-size-6xs-5);
+  color: var(--color-gray-500);
+  height: 0.556rem;
+}
+.trendingOnInstagramParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs-9);
+}
+.frameItem {
+  width: 0.544rem;
+  position: relative;
+  max-height: 100%;
+}
+.frameContainer,
+.frameDiv {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameContainer {
+  flex-direction: row;
+  gap: 6.006rem;
+}
+.frameDiv {
+  position: absolute;
+  top: 2.844rem;
+  left: 1.338rem;
+  flex-direction: column;
+  gap: var(--gap-5xs-6);
+}
+.allUnder40,
+.exploreNow {
+  width: 3.381rem;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 0.846rem;
+  font-weight: 500;
+  display: inline-block;
+  height: 0.594rem;
+  flex-shrink: 0;
+}
+.exploreNow {
+  width: 2.438rem;
+  font-size: var(--font-size-6xs-5);
+  color: var(--color-gray-500);
+  height: 0.563rem;
+}
+.frameParent1,
+.rectangleParent6 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameParent1 {
+  flex-direction: row;
+  gap: 8.456rem;
+}
+.rectangleParent6 {
+  position: absolute;
+  top: 2.844rem;
+  left: 15.019rem;
+  flex-direction: column;
+  gap: var(--gap-5xs-6);
+}
+.groupChild11 {
+  position: absolute;
+  top: 0.575rem;
+  left: 5.363rem;
+  width: 3.213rem;
+  height: 0.538rem;
+}
+.youngsFavourite {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.04em;
+  line-height: 1.014rem;
+  font-weight: 900;
+}
+.frameGroup {
+  position: absolute;
+  top: 21.475rem;
+  left: 1.756rem;
+  width: 27.7rem;
+  height: 14.325rem;
+  font-size: var(--font-size-4xs-7);
+}
+.downloadAppContainer,
+.get30OffContainer {
+  width: 8.319rem;
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 1.014rem;
+  font-weight: 900;
+  display: inline-block;
+  height: 1.844rem;
+  flex-shrink: 0;
+}
+.get30OffContainer {
+  width: 7.088rem;
+  font-size: var(--font-size-6xs-5);
+  letter-spacing: -0.04em;
+  line-height: 0.592rem;
+  font-weight: 500;
+  color: var(--color-gray-600);
+  height: 1.031rem;
+}
+.downloadAppGetTheVoucherParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.693rem;
+}
+.rectangleIcon {
+  width: 3.45rem;
+  position: relative;
+  border-radius: 2.71px;
+  height: 1.2rem;
+  object-fit: cover;
+}
+.frameParent2,
+.rectangleParent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.318rem;
+}
+.frameParent2 {
+  position: absolute;
+  top: 42.581rem;
+  left: 3.769rem;
+  flex-direction: column;
+  gap: 1.1rem;
+  font-size: var(--font-size-smi);
+}
+.shoppingAppItem {
+  position: absolute;
+  top: 40.2rem;
+  left: 17.5rem;
+  width: 11.35rem;
+  height: 11.213rem;
+}
+.mobileAppChild,
+.mobileAppItem {
+  position: absolute;
+  top: 0.694rem;
+  border-radius: 50%;
+  height: 0.644rem;
+}
+.mobileAppChild {
+  left: 0.463rem;
+  background-color: var(--color-white);
+  width: 0.644rem;
+}
+.mobileAppItem {
+  left: 4.619rem;
+  width: 0.694rem;
+  object-fit: contain;
+}
+.appsIcon {
+  position: absolute;
+  top: 0.831rem;
+  left: 0.6rem;
+  width: 0.369rem;
+  height: 0.369rem;
+  overflow: hidden;
+}
+.groupChild12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 3.94px;
+  background-color: var(--color-gainsboro-300);
+  width: 4.85rem;
+  height: 0.619rem;
+}
+.search,
+.searchIcon {
+  width: 0.369rem;
+  position: relative;
+  height: 0.369rem;
+}
+.search {
+  width: 1.019rem;
+  display: inline-block;
+  height: 0.338rem;
+  flex-shrink: 0;
+}
+.searchParent {
+  position: absolute;
+  top: 0.138rem;
+  left: 0.2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.075rem;
+}
+.rectangleParent8 {
+  position: absolute;
+  top: 2.538rem;
+  left: 0.463rem;
+  width: 4.85rem;
+  height: 0.619rem;
+  font-size: 0.244rem;
+  color: var(--color-dimgray);
+  font-family: var(--font-inter);
+}
+.mobileAppInner,
+.trendingNow {
+  position: absolute;
+  left: 0.463rem;
+  width: 2.094rem;
+}
+.mobileAppInner {
+  top: 3.494rem;
+  border-radius: 3.45px;
+  background-color: var(--color-khaki);
+  height: 0.494rem;
+}
+.trendingNow {
+  top: 3.6rem;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  height: 0.338rem;
+}
+.mobileAppChild1 {
+  top: 3.494rem;
+  left: 2.85rem;
+  border-radius: 3.45px;
+  background-color: var(--color-gainsboro-100);
+  height: 0.494rem;
+}
+.all,
+.mobileAppChild1,
+.mobileAppChild2 {
+  position: absolute;
+  width: 1.094rem;
+}
+.all {
+  top: 3.6rem;
+  left: 2.85rem;
+  font-weight: 500;
+  color: var(--color-gray-300);
+  text-align: center;
+  display: inline-block;
+  height: 0.338rem;
+}
+.mobileAppChild2 {
+  top: 3.494rem;
+  left: 4.219rem;
+  border-radius: 3.45px;
+  background-color: var(--color-gainsboro-100);
+  height: 0.494rem;
+}
+.newTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+.new {
+  position: absolute;
+  top: 3.606rem;
+  left: 4.575rem;
+  font-weight: 500;
+  color: var(--color-gray-300);
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  width: 0.419rem;
+}
+.charmingSlimBrunetteWomanPIcon {
+  position: absolute;
+  top: 4.431rem;
+  left: 0.463rem;
+  border-radius: 4.93px;
+  width: 2.263rem;
+  height: 3.188rem;
+  object-fit: cover;
+}
+.curlyWomanJumpingPurpleBacIcon,
+.fullLengthViewGladWomanDaIcon,
+.slenderGirlGreatMoodIsHavIcon {
+  position: absolute;
+  top: 4.431rem;
+  left: 3.081rem;
+  border-radius: 4.93px;
+  width: 2.263rem;
+  height: 3.194rem;
+  object-fit: cover;
+}
+.curlyWomanJumpingPurpleBacIcon,
+.fullLengthViewGladWomanDaIcon {
+  top: 8.869rem;
+  left: 0.463rem;
+  height: 3.188rem;
+}
+.curlyWomanJumpingPurpleBacIcon {
+  left: 3.081rem;
+}
+.polkadotRedDress,
+.rs149900 {
+  position: relative;
+  display: inline-block;
+  height: 0.338rem;
+  flex-shrink: 0;
+}
+.polkadotRedDress {
+  width: 2.188rem;
+  font-weight: 500;
+}
+.rs149900 {
+  width: 2.019rem;
+  color: var(--color-gray-1000);
+  white-space: pre-wrap;
+}
+.polkadotRedDressParent {
+  position: absolute;
+  top: 7.819rem;
+  left: 0.463rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-9xs-4);
+}
+.stripedPinkDress {
+  width: 2.263rem;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  height: 0.338rem;
+  flex-shrink: 0;
+}
+.stripedPinkDressParent {
+  position: absolute;
+  top: 7.819rem;
+  left: 3.05rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-9xs-4);
+}
+.mobileAppChild3 {
+  position: absolute;
+  top: 11.363rem;
+  left: -0.156rem;
+  background-color: var(--color-white);
+  width: 5.925rem;
+  height: 1.369rem;
+}
+.vectorIcon3 {
+  width: 0.419rem;
+  position: relative;
+  height: 0.4rem;
+}
+.vectorIcon5 {
+  position: absolute;
+  height: 76.19%;
+  width: 82.72%;
+  top: 23.81%;
+  right: 17.28%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-red);
+  width: 0.231rem;
+  height: 0.231rem;
+}
+.div,
+.ellipseParent {
+  position: absolute;
+  top: 0;
+  height: 0.244rem;
+}
+.div {
+  left: 0.063rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 0.106rem;
+}
+.ellipseParent {
+  left: 0.275rem;
+  width: 0.231rem;
+}
+.vectorGroup {
+  width: 0.506rem;
+  position: relative;
+  height: 0.525rem;
+}
+.vectorParent {
+  position: absolute;
+  top: 11.563rem;
+  left: 0.475rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 1.031rem;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.matchYourStyle,
+.mobileAppChild4 {
+  position: absolute;
+  top: 1.969rem;
+  left: 2.725rem;
+  width: 1.094rem;
+  height: 0.225rem;
+}
+.matchYourStyle {
+  top: 1.675rem;
+  left: 0.463rem;
+  font-size: 0.4rem;
+  display: inline-block;
+  font-family: var(--font-inter);
+  width: 3.356rem;
+  height: 0.619rem;
+}
+.mobileApp,
+.mobileAppWrapper {
+  position: absolute;
+  width: 5.775rem;
+  height: 12.5rem;
+}
+.mobileApp {
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 9.85px;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.mobileAppWrapper {
+  top: 39.25rem;
+  left: 20.688rem;
+  font-size: var(--font-size-10xs);
+}
+.shoppingApp {
+  position: absolute;
+  top: 0;
+  left: 59.313rem;
+  background-color: var(--color-white);
+  width: 32.469rem;
+  height: 75rem;
+  overflow: hidden;
+  font-size: 0.931rem;
+}
+.shoppingAppInner {
+  position: absolute;
+  top: 116.169rem;
+  left: 98.744rem;
+  background-color: var(--color-silver);
+  width: 7.775rem;
+  height: 7.775rem;
+}
+.cibfSecureIcon,
+.fashion1 {
+  position: relative;
+  flex-shrink: 0;
+}
+.cibfSecureIcon {
+  width: 1.031rem;
+  height: 1.031rem;
+  overflow: hidden;
+}
+.fashion1 {
+  width: 5.813rem;
+  letter-spacing: 0.03em;
+  font-weight: 900;
+  display: inline-block;
+}
+.cibfSecureParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.catalogue,
+.fashion2,
+.favourite,
+.lifestyle {
+  width: 4.006rem;
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+  height: 1.069rem;
+  flex-shrink: 0;
+}
+.fashion2,
+.favourite,
+.lifestyle {
+  width: 2.85rem;
+  height: 0.981rem;
+}
+.favourite,
+.lifestyle {
+  width: 3.65rem;
+}
+.lifestyle {
+  width: 3.056rem;
+  height: 0.95rem;
+}
+.catalogueParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.groupChild13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 3px;
+  background-color: var(--color-black);
+  width: 4.375rem;
+  height: 1.875rem;
+}
+.signUp {
+  position: absolute;
+  top: 0.406rem;
+  left: 0.844rem;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 2.688rem;
+  height: 1.081rem;
+}
+.rectangleParent9 {
+  width: 4.375rem;
+  position: relative;
+  height: 1.875rem;
+  font-size: var(--font-size-xs-4);
+  color: var(--color-gray-100);
+}
+.frameParent3,
+.frameParent4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frameParent4 {
+  align-items: center;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-2xs-4);
+  color: var(--color-gray-1100);
+}
+.frameParent3 {
+  position: absolute;
+  top: 1.438rem;
+  left: 3rem;
+  align-items: flex-start;
+  gap: 18.562rem;
+}
+.groupChild14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 25px;
+  background-color: var(--color-whitesmoke-100);
+  width: 51.063rem;
+  height: 25.294rem;
+}
+.groupChild15,
+.groupChild16 {
+  position: absolute;
+  top: 9.469rem;
+  right: 33.569rem;
+  background-color: var(--color-khaki);
+  width: 14.719rem;
+  height: 3.488rem;
+  transform: rotate(-2deg);
+  transform-origin: 0 0;
+}
+.groupChild16 {
+  top: 2.5rem;
+  right: 34.831rem;
+  background-color: var(--color-white);
+  width: 13.8rem;
+  height: 3.331rem;
+}
+.letsExploreUniqueContainer {
+  position: absolute;
+  top: 2.288rem;
+  right: 33.456rem;
+  line-height: 3.563rem;
+  font-weight: 900;
+  display: inline-block;
+  width: 14.075rem;
+  height: 14.044rem;
+}
+.liveForInfluential {
+  position: absolute;
+  top: 17.519rem;
+  left: 3.531rem;
+  font-size: var(--font-size-base-2);
+  letter-spacing: -0.05em;
+  color: var(--color-gray-1300);
+  display: inline-block;
+  width: 17.988rem;
+  height: 1.725rem;
+}
+.incendiaryFantasticallyBeautIcon {
+  position: absolute;
+  top: 1.756rem;
+  left: 23.469rem;
+  width: 26.375rem;
+  height: 23.563rem;
+  object-fit: cover;
+}
+.groupChild17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4.75px;
+  background-color: var(--color-black);
+  width: 6.563rem;
+  height: 2.438rem;
+}
+.shopNow1 {
+  position: absolute;
+  top: 0.569rem;
+  left: 0.944rem;
+  letter-spacing: -0.05em;
+  font-weight: 500;
+}
+.rectangleParent11 {
+  width: 6.563rem;
+  position: relative;
+  height: 2.438rem;
+}
+.groupWrapper {
+  position: absolute;
+  top: 20.188rem;
+  left: 3.713rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 0.894rem;
+  color: var(--color-white);
+}
+.rectangleParent10 {
+  position: absolute;
+  top: 4.869rem;
+  left: 2.969rem;
+  width: 51.063rem;
+  height: 25.319rem;
+  font-size: 2.85rem;
+}
+.groupIcon {
+  position: absolute;
+  top: 6.313rem;
+  left: 25.125rem;
+  width: 26.719rem;
+  height: 22.413rem;
+}
+.frameChild2 {
+  width: 14.369rem;
+  position: relative;
+  border-radius: var(--br-3xs);
+  height: 20.9rem;
+  object-fit: cover;
+}
+.exploreNow1,
+.hoodiesSweatshirt {
+  width: 9.531rem;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 1.484rem;
+  font-weight: 500;
+  display: inline-block;
+  height: 1.069rem;
+  flex-shrink: 0;
+}
+.exploreNow1 {
+  width: 4.375rem;
+  font-size: var(--font-size-xs-4);
+  color: var(--color-gray-500);
+  height: 1rem;
+}
+.hoodiesSweatshirtParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs-3);
+}
+.frameChild3 {
+  width: 0.95rem;
+  position: relative;
+  max-height: 100%;
+}
+.frameParent6,
+.rectangleParent12 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3.625rem;
+}
+.rectangleParent12 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.831rem;
+}
+.coatsParkas,
+.exploreNow2 {
+  width: 6.825rem;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 1.484rem;
+  font-weight: 500;
+  display: inline-block;
+  height: 1.069rem;
+  flex-shrink: 0;
+}
+.exploreNow2 {
+  width: 4.25rem;
+  font-size: var(--font-size-xs-4);
+  color: var(--color-gray-500);
+  height: 0.938rem;
+}
+.frameParent7,
+.rectangleParent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6.25rem;
+}
+.rectangleParent13 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.768rem;
+}
+.frameChild6 {
+  width: 14.544rem;
+  position: relative;
+  border-radius: var(--br-3xs);
+  height: 20.9rem;
+  object-fit: cover;
+}
+.exploreNow3,
+.teesTShirt {
+  width: 6.206rem;
+  position: relative;
+  letter-spacing: -0.04em;
+  line-height: 1.484rem;
+  font-weight: 500;
+  display: inline-block;
+  height: 1.1rem;
+  flex-shrink: 0;
+}
+.exploreNow3 {
+  width: 4.375rem;
+  font-size: var(--font-size-xs-4);
+  color: var(--color-gray-500);
+  height: 0.938rem;
+}
+.frameParent5,
+.frameParent8,
+.rectangleParent14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7rem;
+}
+.frameParent5,
+.rectangleParent14 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.712rem;
+}
+.frameParent5 {
+  position: absolute;
+  top: 44.313rem;
+  left: 3rem;
+  flex-direction: row;
+  gap: 3rem;
+  font-size: var(--font-size-base-2);
+  color: var(--color-gray-1200);
+}
+.shoppingAppChild1 {
+  position: absolute;
+  top: 40.288rem;
+  left: 9.769rem;
+  width: 5.519rem;
+  height: 1.038rem;
+}
+.newArrivals {
+  position: absolute;
+  top: 39.6rem;
+  left: 3.088rem;
+  font-size: 1.425rem;
+  letter-spacing: 0.06em;
+  line-height: 1.484rem;
+  font-weight: 900;
+}
+.shoppingAppChild2 {
+  position: absolute;
+  top: 32.438rem;
+  left: 0;
+  background-color: var(--color-khaki);
+  width: 57rem;
+  height: 5.125rem;
+}
+.frameChild8 {
+  width: 3.513rem;
+  position: relative;
+  height: 2.063rem;
+  object-fit: cover;
+}
+.frameChild10,
+.frameChild11,
+.frameChild12,
+.frameChild13,
+.frameChild9 {
+  width: 4.45rem;
+  position: relative;
+  height: 1.563rem;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.frameChild10,
+.frameChild11,
+.frameChild12,
+.frameChild13 {
+  width: 5.225rem;
+  height: 1.838rem;
+}
+.frameChild11,
+.frameChild12,
+.frameChild13 {
+  width: 6.975rem;
+  height: 2.075rem;
+}
+.frameChild12,
+.frameChild13 {
+  width: 3.769rem;
+  height: 2.1rem;
+}
+.frameChild13 {
+  width: 4.925rem;
+  height: 1.869rem;
+}
+.rectangleParent15 {
+  position: absolute;
+  top: 33.844rem;
+  left: 5.075rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3.593rem;
+}
+.shoppingApp1,
+.shoppingWebsite {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.shoppingApp1 {
+  position: absolute;
+  top: 5.063rem;
+  left: 8.25rem;
+  box-shadow: 0 4px 50px rgba(0, 0, 0, 0.18);
+  border-radius: var(--br-xl);
+  width: 57rem;
+  height: 72.556rem;
+  font-size: 1.188rem;
+}
+.shoppingWebsite {
+  width: 100%;
+  position: relative;
+  height: 75rem;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

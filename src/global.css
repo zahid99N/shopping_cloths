@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-5xl: 1.5rem;
+  --font-size-3xl: 1.375rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-11xl: 1.875rem;
+  --font-size-13xl: 2rem;
+  --font-size-2xs-5: 0.656rem;
+  --font-size-smi-2: 0.763rem;
+  --font-size-29xl: 3rem;
+  --font-size-17xl: 2.25rem;
+  --font-size-xs-4: 0.713rem;
+  --font-size-base-2: 0.95rem;
+  --font-size-2xs-4: 0.65rem;
+  --font-size-10xs: 0.188rem;
+  --font-size-9xs-4: 0.213rem;
+  --font-size-6xs-5: 0.406rem;
+  --font-size-smi: 0.813rem;
+  --font-size-4xs-7: 0.544rem;
+  --font-size-4xs: 0.563rem;
+  --font-size-xl: 1.25rem;
+  --font-size-base-5: 1.031rem;
+  --font-size-111xl: 8.125rem;
+  --font-size-7xs-9: 0.369rem;
+  --font-size-6xs-9: 0.431rem;
+  --font-size-sm-6: 0.85rem;
+  --font-size-8xl-2: 1.7rem;
+  --font-size-lg-1: 1.131rem;
+  --font-size-20xl: 2.438rem;
+  --font-size-34xl: 3.313rem;
+  --font-size-7xl: 1.625rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fefefe;
+  --color-gray-200: #8e8e8e;
+  --color-gray-300: #8a8a8a;
+  --color-gray-400: #89807a;
+  --color-gray-500: #7f7f7f;
+  --color-gray-600: #7c7c7c;
+  --color-gray-700: #7a7a7a;
+  --color-gray-800: #787878;
+  --color-gray-900: #767676;
+  --color-gray-1000: #757575;
+  --color-gray-1100: #242323;
+  --color-gray-1200: #191919;
+  --color-gray-1300: #191818;
+  --color-black: #000;
+  --color-khaki: #ebd96b;
+  --color-whitesmoke-100: #f4f6f5;
+  --color-whitesmoke-200: #efeceb;
+  --color-whitesmoke-300: #eaeaea;
+  --color-whitesmoke-400: #ece8e7;
+  --color-lightsteelblue: #c2c8da;
+  --color-red: #ea1701;
+  --color-gainsboro-100: #e9e6e6;
+  --color-gainsboro-200: #d9d9d9;
+  --color-gainsboro-300: rgba(221, 221, 221, 0.4);
+  --color-dimgray: #6e6f72;
+  --color-goldenrod-100: #e5c643;
+  --color-silver: #c4c4c4;
+  --color-palegoldenrod-100: #fbeca3;
+  --color-gold: #fdd200;
+
+  /* Gaps */
+  --gap-46xl: 4.062rem;
+  --gap-6xs: 0.437rem;
+  --gap-71xl: 5.625rem;
+  --gap-112xl: 8.187rem;
+  --gap-9xs-3: 0.206rem;
+  --gap-11xl: 1.875rem;
+  --gap-9xs: 0.25rem;
+  --gap-5xs-6: 0.475rem;
+  --gap-11xs-9: 0.118rem;
+  --gap-45xl: 4rem;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-mid-5: 17.5px;
+  --br-smi-2: 12.2px;
+  --br-xl: 20px;
+  --br-mini: 15px;
+  --br-8xs-9: 4.9px;
+  --br-9xs-5: 3.5px;
+  --br-10xs-7: 2.7px;
+  --br-8xs-1: 4.1px;
+  --br-3xs-9: 9.9px;
+  --br-6xs-9: 6.9px;
+  --br-7xs-7: 5.7px;
+  --br-xs-3: 11.3px;
+}
